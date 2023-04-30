@@ -1,0 +1,19 @@
+WHAT IT DOES?
+it basically is like the flipper-zero but it just steals the Ethernet/Internet code/password.
+
+CODE'S USED
+html, javascript, batch, java,
+
+OWNER
+This script is made by NicolasTh3coder!
+
+WHAT TO USE FOR?
+I was just bored so i just made this and it actually works, do not use for 
+any hacking and i will not either!
+
+WARNING!
+Do not use for any bad usages!
+
+
+
+@NicolasT3ecoder all rights served 2023
