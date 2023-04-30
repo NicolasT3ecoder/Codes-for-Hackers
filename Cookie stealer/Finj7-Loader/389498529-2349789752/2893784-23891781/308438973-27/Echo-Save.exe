@@ -1,0 +1,4 @@
+@echo text /k 
+ @echo bar /k
+  @echo text.bar /k
+FileLister.logs = null_.window = null; 

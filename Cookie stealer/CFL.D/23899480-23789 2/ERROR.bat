@@ -1,0 +1,1 @@
+Msg * "CookieStealer is outdated GETTING fix! bar.txt is getting fixed" 
